@@ -11,7 +11,7 @@ public class Gamer {
         cardsPool = new ArrayList<>();
     }
 
-    public void drawCard(ArrayList<Pair<String, Integer>> deck) {
+    public void drawFromDeck(ArrayList<Pair<String, Integer>> deck) {
         cardsPool.add(CardHandler.DrawCard(deck));
     }
 }
