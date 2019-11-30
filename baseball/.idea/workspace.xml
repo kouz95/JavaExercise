@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d8ac618-f6bd-4b93-85d8-558187c0fa28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/BaseballGameApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/domain/BaseballGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/domain/BaseballNumberValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/domain/RandomNumberListGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/view/InputView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/baseballGame/view/OutputView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/baseballGame/Computer.java" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1TuYUNOug9Bwn5JAJWclppBf6Nf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BaseballGameApplication (1)">
+    <configuration name="BaseballGameApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.baseballGame.BaseballGameApplication" />
+      <module name="baseball" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.baseballGame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaseballGameApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.BaseballGameApplication" />
+      <module name="baseball" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BaseballGameApplication (1)" />
+        <item itemvalue="Application.BaseballGameApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8ac618-f6bd-4b93-85d8-558187c0fa28" name="Default Changelist" comment="" />
+      <created>1574311462420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574311462420</updated>
+      <workItem from="1574311468742" duration="10823000" />
+      <workItem from="1574484447005" duration="18811000" />
+      <workItem from="1574614332775" duration="2159000" />
+      <workItem from="1574750043400" duration="6464000" />
+      <workItem from="1574777774971" duration="3566000" />
+      <workItem from="1574819796801" duration="3353000" />
+      <workItem from="1574827369676" duration="155000" />
+      <workItem from="1574828340413" duration="2529000" />
+      <workItem from="1574832511994" duration="15000" />
+      <workItem from="1574832659660" duration="74000" />
+      <workItem from="1574832842409" duration="604000" />
+      <workItem from="1575114199879" duration="161000" />
+    </task>
+    <task id="LOCAL-00001" summary="Main.java 생성">
+      <created>1574311976883</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574311976883</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Computer class 생성">
+      <created>1574318608161</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1574318608161</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Computer class 생성">
+      <created>1574318977729</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1574318977729</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Computer class 생성자 구현">
+      <created>1574319074160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574319074160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="get 메소드 구현">
+      <created>1574319154793</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574319154793</updated>
+    </task>
+    <task id="LOCAL-00006" summary="난수 생성 메소드 구현">
+      <created>1574319234577</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574319234577</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Main.java 생성" />
+    <MESSAGE value="Computer class 생성" />
+    <MESSAGE value="Computer class 생성자 구현" />
+    <MESSAGE value="get 메소드 구현" />
+    <MESSAGE value="난수 생성 메소드 구현" />
+    <option name="LAST_COMMIT_MESSAGE" value="난수 생성 메소드 구현" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/baseball$BaseballGameApplication.ic" NAME="BaseballGameApplication Coverage Results" MODIFIED="1574614535649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
