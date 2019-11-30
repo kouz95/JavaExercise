@@ -4,10 +4,10 @@ import utils.Pair;
 
 import java.util.ArrayList;
 
-public class Gamer {
+public class Player {
     private ArrayList<Pair<String, Integer>> cardsPool;
 
-    public Gamer() {
+    public Player() {
         cardsPool = new ArrayList<>();
     }
 
