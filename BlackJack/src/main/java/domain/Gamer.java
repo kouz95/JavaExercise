@@ -1,5 +1,7 @@
 package main.java.domain;
 
+import utils.Pair;
+
 import java.util.ArrayList;
 
 public class Gamer {

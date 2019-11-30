@@ -1,4 +1,4 @@
-package main.java.domain;
+package utils;
 
 public class Pair<L,R> {
     private final L left;
@@ -9,7 +9,7 @@ public class Pair<L,R> {
         this.right = right;
     }
 
-    static <L,R> Pair<L,R> of(L left, R right){
+    public static <L,R> Pair<L,R> of(L left, R right){
         return new Pair<>(left, right);
     }
 
