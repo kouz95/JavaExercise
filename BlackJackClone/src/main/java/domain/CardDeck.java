@@ -14,6 +14,7 @@ public class CardDeck {
         cards = this.generateCards();
     }
 
+
     private List<Card> generateCards() {
         List<Card> cards = new LinkedList<>();
 
@@ -59,5 +60,17 @@ public class CardDeck {
         }
 
         return sb.toString();
+    }
+
+    public Card draw(){
+        Card selectedCard = getRandomCard();
+        cards.remove(selectedCard);
+        return selectedCard;
+    }
+
+    private Card getRandomCard() {
+        int size = cards.size();
+        int select = (int)(Math.random()*size);
+        return cards.get(select);
     }
 }
