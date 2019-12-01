@@ -38,3 +38,5 @@
 - 클래스의 이름 역시 과한 정보를 담지 않는다.
     - Application
         - NOT BlackJackApplication
+        
+- 총량을 의미하는 변수명을 사용할땐 NUM이 아닌 COUNT를 사용하자.

@@ -7,5 +7,6 @@ public class Game {
         Gamer gamer = new Gamer();
         Rule rule = new Rule();
         CardDeck cardDeck = new CardDeck();
+        Card card = cardDeck.draw();
     }
 }
