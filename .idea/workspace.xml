@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8844fd1c-ff22-4542-83ad-60bb634fbadb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,7 +10,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UN3LUNwAbEzmj1RoUzSplWG0Ma" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -34,13 +32,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8844fd1c-ff22-4542-83ad-60bb634fbadb" name="Default Changelist" comment="" />
-      <created>1575183169203</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1575183169203</updated>
-      <workItem from="1575183170485" duration="31000" />
-    </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
