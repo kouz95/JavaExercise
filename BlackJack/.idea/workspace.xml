@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d664edd-39e3-4089-bf94-d5f5f021333e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UKouXGKSJDXgJY3EZmsfXsfaX6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BlackJackApplication">
+    <configuration name="BlackJackApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BlackJackApplication" />
+      <module name="BlackJack" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.Main" />
+      <module name="BlackJack" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlackJackApplication" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d664edd-39e3-4089-bf94-d5f5f021333e" name="Default Changelist" comment="" />
+      <created>1575114870628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575114870628</updated>
+      <workItem from="1575114873644" duration="60000" />
+      <workItem from="1575116602027" duration="9763000" />
+    </task>
+    <task id="LOCAL-00001" summary="docs: 구현 순서 변경, 딜러와 게이머 분리">
+      <created>1575116967600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575116967600</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Pair클래스 생성, 카드의 문양과 숫자를 표현.">
+      <created>1575118876609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575118876609</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: 카드 클래스 정보 추가">
+      <created>1575118899674</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575118899674</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: Card 클래스 생성, Shuffle기능 구현">
+      <created>1575119004179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575119004179</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat: Draw기능 구현">
+      <created>1575119718710</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1575119718710</updated>
+    </task>
+    <task id="LOCAL-00006" summary="refactor: 오타 수정">
+      <created>1575119739846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1575119739846</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: GamerDraw기능 구현">
+      <created>1575120136099</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575120136099</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: 점수 계산 기능 구현">
+      <created>1575120775005</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575120775005</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: Pair값 불러오기 기능 구현">
+      <created>1575120880835</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1575120880835</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactor: Pair 클래스 패키지 이동">
+      <created>1575120989720</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1575120989720</updated>
+    </task>
+    <task id="LOCAL-00011" summary="refactor: draw기능 재 구현">
+      <created>1575121234257</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1575121234257</updated>
+    </task>
+    <task id="LOCAL-00012" summary="refactor: 클래스 이름 변경 -&gt; 게이머, 딜러 같은 플레이어 클래스 공유">
+      <created>1575122274081</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1575122274081</updated>
+    </task>
+    <task id="LOCAL-00013" summary="refactor: Pair&lt;&gt; -&gt; Pair&lt;String, Integer&gt;">
+      <created>1575180596080</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1575180596080</updated>
+    </task>
+    <task id="LOCAL-00014" summary="refactor: J, Q, K 처리">
+      <created>1575180628411</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1575180628412</updated>
+    </task>
+    <task id="LOCAL-00015" summary="feat: Draw or Stop 기능 구현">
+      <created>1575180657294</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575180657294</updated>
+    </task>
+    <task id="LOCAL-00016" summary="feat: create OutputView">
+      <created>1575180684144</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575180684144</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: 구현 순서 변경, 딜러와 게이머 분리" />
+    <MESSAGE value="docs: 카드 클래스 정보 추가" />
+    <MESSAGE value="feat: Pair클래스 생성, 카드의 문양과 숫자를 표현." />
+    <MESSAGE value="feat: Card 클래스 생성, Shuffle기능 구현" />
+    <MESSAGE value="feat: Draw기능 구현" />
+    <MESSAGE value="refactor: 오타 수정" />
+    <MESSAGE value="feat: GamerDraw기능 구현" />
+    <MESSAGE value="feat: 점수 계산 기능 구현" />
+    <MESSAGE value="feat: Pair값 불러오기 기능 구현" />
+    <MESSAGE value="refactor: Pair 클래스 패키지 이동" />
+    <MESSAGE value="refactor: draw기능 재 구현" />
+    <MESSAGE value="refactor: 클래스 이름 변경 -&gt; 게이머, 딜러 같은 플레이어 클래스 공유" />
+    <MESSAGE value="refactor: Pair&lt;&gt; -&gt; Pair&lt;String, Integer&gt;" />
+    <MESSAGE value="refactor: J, Q, K 처리" />
+    <MESSAGE value="feat: Draw or Stop 기능 구현" />
+    <MESSAGE value="feat: create OutputView" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: create OutputView" />
+  </component>
+</project>

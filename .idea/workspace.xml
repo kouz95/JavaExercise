@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="111e2e4d-4c90-44a1-8f55-8c50684c7c12" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +10,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UKp2R0z7GLxgQCdwbf9wyuh6kg" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -36,21 +32,6 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="111e2e4d-4c90-44a1-8f55-8c50684c7c12" name="Default Changelist" comment="" />
-      <created>1575114933205</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1575114933205</updated>
-      <workItem from="1575114934388" duration="968000" />
-    </task>
-    <task id="LOCAL-00001" summary="docs: 기능 구현 목록 작성">
-      <created>1575116529191</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1575116529192</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,9 +47,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="docs: 기능 구현 목록 작성" />
-    <option name="LAST_COMMIT_MESSAGE" value="docs: 기능 구현 목록 작성" />
   </component>
 </project>
