@@ -1,6 +1,7 @@
 package main.java.domain;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 public class CardDeck {
@@ -10,31 +11,40 @@ public class CardDeck {
     private List<Card> cards;
 
     public CardDeck() {
-        cards = new ArrayList<>();
+        cards = this.generateCards();
+    }
+
+    private List<Card> generateCards() {
+        List<Card> cards = new LinkedList<>();
 
         for(String pattern : PATTERNS){
             for(int i=1; i<=CARD_COUNT; i++) {
                 Card card = new Card();
-                String denomination;
-
-                if(i == 1){
-                    denomination = "A";
-                }else if(i == 11){
-                    denomination = "J";
-                }else if(i == 12){
-                    denomination = "Q";
-                }else if(i == 13){
-                    denomination = "K";
-                }else {
-                    denomination = String.valueOf(i);
-                }
-
+                String denomination = this.numberToDenomination(i);
                 card.setDenomination(denomination);
                 card.setPattern(pattern);
                 cards.add(card);
             }
         }
+
+        return cards;
     }
+
+    private String numberToDenomination(int number){
+
+        if(number == 1){
+            return "A";
+        }else if(number == 11){
+            return "J";
+        }else if(number == 12){
+            return "Q";
+        }else if(number == 13){
+            return "K";
+        }
+
+        return String.valueOf(number);
+    }
+
 
     public Card getCard() {
         return null;
