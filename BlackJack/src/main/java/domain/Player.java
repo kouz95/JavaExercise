@@ -11,6 +11,10 @@ public class Player {
         cardsPool = new ArrayList<>();
     }
 
+    public ArrayList<Pair<String, Integer>> getCardsPool() {
+        return cardsPool;
+    }
+
     public void drawFromDeck(ArrayList<Pair<String, Integer>> deck) {
         cardsPool.add(CardHandler.DrawCard(deck));
     }
