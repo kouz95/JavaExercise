@@ -11,25 +11,25 @@ public class Card {
     private static final int MAX_VALUE_OF_NUM = 10;
     private static final String[] PATTERN = {"SPADE", "DIAMOND", "HEART", "CLOVER"};
 
-    private ArrayList<Pair> deckList = setDefalutDeck();
+    private ArrayList<Pair<String, Integer>> deckList = setDefaultDeck();
 
     public Card() {
         Collections.shuffle(deckList);
     }
 
-    public ArrayList<Pair> getDeckList() {
+    public ArrayList<Pair<String, Integer>> getDeckList() {
         return deckList;
     }
 
-    private ArrayList<Pair> setDefalutDeck() {
-        ArrayList<Pair> defalutDeck = new ArrayList<>();
+    private ArrayList<Pair<String, Integer>> setDefaultDeck() {
+        ArrayList<Pair<String, Integer>> defaultDeck = new ArrayList<>();
         for (String str : PATTERN) {
-            setPatternOf(defalutDeck, str);
+            setPatternOf(defaultDeck, str);
         }
-        return defalutDeck;
+        return defaultDeck;
     }
 
-    private void setPatternOf(ArrayList<Pair> deck, String pattern) {
+    private void setPatternOf(ArrayList<Pair<String, Integer>> deck, String pattern) {
         for(int i = 1 ; i <= SAME_PATTERN_NUM ; i++) {
             if(i >= MAX_VALUE_OF_NUM) {
                 deck.add(Pair.of(pattern, MAX_VALUE_OF_NUM));
