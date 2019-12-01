@@ -19,10 +19,9 @@ public class CardDeck {
 
         for(String pattern : PATTERNS){
             for(int i=1; i<=CARD_COUNT; i++) {
-                Card card = new Card();
                 String denomination = this.numberToDenomination(i);
-                card.setDenomination(denomination);
-                card.setPattern(pattern);
+                Card card = new Card(pattern, denomination);
+
                 cards.add(card);
             }
         }
